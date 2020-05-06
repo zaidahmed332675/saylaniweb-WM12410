@@ -416,7 +416,6 @@ hr{
 		padding:0px;
 		display: block;
 		border-bottom: 1px solid black;
-		/*box-shadow: 0px 3px #888888;*/
 		border-bottom-style: dashed;
 	}
 	nav.header-navigation ul li:hover > ul{
